@@ -1,0 +1,7 @@
+Step 1: open chrome://dino
+Step2:Inspect the Browser
+Step 3:Type the Command Runner.instance_.gameOver=()=>{}
+Step 4 :Run the dino
+Step 5: Congrats You Break Your previous High Scores
+
+*Note=> gameOver is javascript Function which is Used in Building Dino Game
